@@ -1,0 +1,15 @@
+server:
+  port: 10086
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/crm??useUnicode=true&amp;characterEncoding=UTF8
+    username: root
+    password: crm2019008
+    driver-class-name: com.mysql.jdbc.Driver
+  application:
+    name: crm
+
+
+
+
